@@ -25,7 +25,8 @@ def resume_scorer_txt(text,resume_txt,file_name):
         skilss = []
         for i in resume_txt:
             temp = re.sub("[^a-zA-Z0-9]", "", i)
-            if temp.lower() in ["xml", "html", "javascript", "css3", "css", "python"]:
+            required_skils = ["xml", "html", "javascript", "css3", "css", "python", "java", "angular", "bootstrap","jquery"]
+            if temp.lower() in required_skils:
                 skilss.append(temp.lower())
 
         print("Resume score: ", len(set(skilss)))

@@ -1,0 +1,3 @@
+File_name: Nikhil, email: nikhil.akula06@gmail.com, skills: ['angular', 'bootstrap', 'css', 'css3', 'html', 'java', 'javascript', 'jquery', 'python', 'xml']
+File_name: Ravi Reddy, email: rvk.reddy240@gmail.com, skills: ['css', 'css3', 'html', 'java', 'javascript', 'jquery', 'xml']
+File_name: Rao_Java, email: raojavadev7@gmail.com, skills: ['angular', 'bootstrap', 'css', 'css3', 'html', 'java', 'javascript', 'jquery', 'xml']
